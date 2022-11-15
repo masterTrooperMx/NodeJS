@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masterTrooperMx
 - 👀 I’m interested in C/C++, JavaScript, R, Perl, Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on JavaScrit and Perl projects
+- 🌱 I’m currently working with Python and nodeJS
+- 💞️ I’m looking to collaborate on JavaScript, Python and Perl projects
 - 📫 How to reach me, emailme to mastertrooper@gmail.com
 
 <!---
