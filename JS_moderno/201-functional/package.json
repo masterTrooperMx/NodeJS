@@ -1,0 +1,13 @@
+{
+  "name": "201-functional",
+  "version": "1.0.0",
+  "description": "forEach funcional",
+  "main": "ex1-foraech.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jesus Cruz",
+  "license": "ISC",
+  "type": "module"
+}
